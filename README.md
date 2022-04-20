@@ -31,4 +31,4 @@
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igor-pardinho-39a655197?trk=people-guest_people_search-card/)
 
-   <p   <a href="https://twitter.com/pardinho_7" target="blank"><img src="https://img.shields.io/twitter/follow/pardinho_7?logo=twitter&style=for-the-badge" alt="igorpardinho" /></a></p>        
+   <p> <a href="https://twitter.com/pardinho_7" target="blank"><img src="https://img.shields.io/twitter/follow/pardinho_7?logo=twitter&style=for-the-badge" alt="igorpardinho" /></a></p>        
