@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, Eu sou Igor Pardinho</h1>
-<h3 align="center"> Desenvolvedor do Brasil</h3>
+<h1 align="center">Hello 👋, I'm Igor Pardinho</h1>
+<h3 align="center"> Web Developer from Brazil</h3>
 
 
 
@@ -24,9 +24,10 @@
   <img align="center" title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="NodeJs" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
  
-  </div>
+#  </div>
+
  
-  ## 
+   
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igor-pardinho-39a655197?trk=people-guest_people_search-card/)
 
