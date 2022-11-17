@@ -6,7 +6,7 @@
 
    ## 📄 About Me
 
-- `💻 Web Developer`
+- `💻 Developer`
 
 - `🎓 Systems Analysis Student`
 
