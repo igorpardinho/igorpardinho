@@ -1,7 +1,11 @@
 <h1 align="center">Hello 👋, I'm Igor Pardinho</h1>
 <h3 align="center"> Web Developer from Brazil</h3>
 
-![coderman](https://user-images.githubusercontent.com/102418941/166116286-1e69354d-c871-4834-8a39-c778e519a079.gif)
+<div> 
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img src="https://thumbs.gfycat.com/MadSecondDarklingbeetle-size_restricted.gif"/>
+
+</div>
 
 
    ## 📄 About Me
@@ -15,7 +19,7 @@
 <div>
   <a href="https://github.com/igorpardinho">
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpardinho&layout=compact&langs_count=7&theme=dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpardinho&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
