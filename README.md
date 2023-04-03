@@ -1,9 +1,8 @@
 <h1 align="center">Hello 👋, I'm Igor Pardinho</h1>
-<h3 align="center"> Web Developer from Brazil</h3>
+<h3 align="center">Developer from Brazil</h3>
 
 <div> 
-<img src="https://thumbs.gfycat.com/MadSecondDarklingbeetle-size_restricted.gif"/>
-
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 </div>
 
 
