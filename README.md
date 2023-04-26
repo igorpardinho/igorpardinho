@@ -15,9 +15,8 @@
 ##
 
 <div>
-  <a href="https://github.com/igorpardinho">
   
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpardinho&layout=compact&langs_count=7&theme=dark"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=igorpardinho&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=igorpardinho&show_icons=true&theme=transparent)](https://github.com/igorpardinho/github-readme-stats)
 </div>
   
 <div style="display: inline_block"><br>
