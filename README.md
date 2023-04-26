@@ -15,7 +15,7 @@
 ##
 
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=igorpardinho&show_icons=true&theme=transparent) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorpardinho)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=igorpardinho&show_icons=true&theme=transparent)](https://github.com/igorpardinho/github-readme-stats)
 
   
