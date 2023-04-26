@@ -13,9 +13,7 @@
 - `🎓 Systems Analysis Student`
 
 ##
-
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorpardinho)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=igorpardinho&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=igorpardinho&show_icons=true&theme=transparent)](https://github.com/igorpardinho/github-readme-stats)
 
   
