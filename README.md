@@ -14,7 +14,8 @@
 
 ##
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=igorpardinho&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=igorpardinho&show_icons=true&theme=transparent&layout=compact)](https://github.com/igorpardinho/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=igorpardinho&show_icons=true&theme=dark&layout=compact)](https://github.com/igorpardinho/github-readme-stats)
 
 <div style="display: inline_block"><br>
    <img align="center" title="Java" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
