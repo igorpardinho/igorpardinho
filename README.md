@@ -24,8 +24,9 @@
 
  
 
- 
-   
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=igorpardinho&style=for-the-badge&color=black" alt=""/>
+</div>
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igor-pardinho-lima-39a655197?trk=people-guest_people_search-card/)
 
