@@ -27,6 +27,12 @@
   <img src="https://komarev.com/ghpvc/?username=igorpardinho&style=for-the-badge&color=orange" alt=""/>
 </div>
 
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igor-pardinho-lima-39a655197?trk=people-guest_people_search-card/)
 
  - 📫 Contact me at: pardinhoigor@gmail.com.
