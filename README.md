@@ -22,9 +22,6 @@
    
 #  </div>
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=igorpardinho&show_icons=true&theme=vision-friendly-dark">
-</p>
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=igorpardinho&style=for-the-badge&color=orange" alt=""/>
