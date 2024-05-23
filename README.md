@@ -27,12 +27,6 @@
 </div>
 
 
-   ![snake gif](https://github.com/igorpardinho/igorpardinho/blob/output/github-contribution-grid-snake.svg)
-
-
-<p>
-   
-</p>
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igor-pardinho-lima-39a655197?trk=people-guest_people_search-card/)
 
