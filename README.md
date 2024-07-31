@@ -2,7 +2,7 @@
 <h3 align="center">Developer from Brazil</h3>
 
 <div> 
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"/>
 </div>
 
 
@@ -17,7 +17,6 @@
 
 <div style="display: inline_block"><br>
    <img align="center" title="Java" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" title="Rust" alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
  <img align="center" title="git" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    
 #  </div>
