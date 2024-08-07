@@ -1,11 +1,6 @@
 <h1 align="center">Hello 👋, I'm Igor Pardinho</h1>
 <h3 align="center">Developer from Brazil</h3>
 
-<div> 
-<img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"/>
-</div>
-
-
    ## 📄 About Me
 
 - `💻 Developer`
