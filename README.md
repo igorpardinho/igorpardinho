@@ -75,7 +75,7 @@ Clean Architecture | TDD | Git
 ###
 
 ![Pacman Graph](https://raw.githubusercontent.com/igorpardinho/igorpardinho/output/pacman-contribution-graph.svg#gh-dark-mode-only)
-![Pacman Graph](https://raw.githubusercontent.com/igorpardinho/igorpardinho/output/pacman-contribution-graph-dark.svg#gh-light-mode-only)
+
 
 ###
 
