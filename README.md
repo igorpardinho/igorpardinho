@@ -1,32 +1,94 @@
-<h1 align="center">Hello 👋, I'm Igor Pardinho</h1>
-<h3 align="center">Developer from Brazil</h3>
+### Hi 👋! I'm Igor Pardinho
 
-   ## 📄 About Me
+I'm a back-end developer from Brazil 🇧🇷, passionate about clean code, scalable architecture, and building reliable APIs.
 
-- `💻 Developer`
-
-- `🎓 Systems Analysis Student`
-
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorpardinho&size_weight=0.5&count_weight=0.5&theme=dark&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
-
-<div style="display: inline_block"><br>
-   <img align="center" title="Java" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" title="Spring" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-   <img align="center" title="Typescript" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-   <img align="center" title="Nestjs" alt="Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-   <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
- <img align="center" title="git" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   
-#  </div>
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=igorpardinho&style=for-the-badge&color=orange" alt=""/>
+<div align="left">
+  <img height="150" src="https://media.tenor.com/2ITHaiXAjNcAAAAi/night-shift-work.gif"  />
 </div>
 
+---
 
+### 💻 Tech Stack
 
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igor-pardinho-lima-39a655197?trk=people-guest_people_search-card/)
+**Languages & Frameworks:**  
+TypeScript | JavaScript | NestJS | ExpressJS | Java | Spring Boot  
 
- - 📫 Contact me at: pardinhoigor@gmail.com.
-     
+**Databases & ORMs:**  
+MySQL | PostgreSQL | MongoDB | JPA | TypeORM | Prisma
+
+**Dev Tools & Practices:**  
+Docker | Redis | JWT Auth | REST APIs  
+Clean Architecture | TDD | Git
+
+---
+
+### 🚀 Currently learning
+
+- Advanced testing strategies  
+- Fullstack apps with React  
+- DevOps & CI/CD pipelines  
+
+---
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorpardinho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igorpardinho/igorpardinho/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igorpardinho/igorpardinho/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/igorpardinho/igorpardinho/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="left">
+  <a href="pardinhoigor@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/igorpardinholima/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
