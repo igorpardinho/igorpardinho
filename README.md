@@ -80,9 +80,6 @@ Clean Architecture | TDD | Git
 ###
 
 <div align="left">
-  <a href="pardinhoigor@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/igorpardinholima/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
   </a>
