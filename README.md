@@ -11,10 +11,10 @@ I'm a back-end developer from Brazil 🇧🇷, passionate about clean code, scal
 ### 💻 Tech Stack
 
 **Languages & Frameworks:**  
-TypeScript | JavaScript | NestJS | ExpressJS | Java | Spring Boot  
+TypeScript | JavaScript | Fastify | NestJS | ExpressJS | Java | Spring Boot  
 
 **Databases & ORMs:**  
-MySQL | PostgreSQL | MongoDB | JPA | TypeORM | Prisma
+MySQL | PostgreSQL | MongoDB | JPA | TypeORM | Prisma | Knex 
 
 **Dev Tools & Practices:**  
 Docker | Redis | JWT Auth | REST APIs  
