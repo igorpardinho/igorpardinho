@@ -49,6 +49,14 @@ No activity tracked
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg">
                <img align="center" alt="Er-icon" height="30" width="40"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+              <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
+              <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/knexjs/knexjs-original.svg">
+              <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+              <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
             </div>
             </br>
             <div align="center" style="display: inline_block">
@@ -59,18 +67,22 @@ No activity tracked
           <td width="50%">
             <h3>💻 Tech Stack</h3>
             <p><strong>--- Back-end ---</strong></p>
-            <ul>
-              <li>Spring Boot (Web, Data JPA, Security with JWT, Actuator)</li>
-              <li>External API Integration (WebClient, Feign Client)</li>
-              <li>ORM with Hibernate, advanced queries (JPQL, Criteria, Native Queries)</li>
-              <li>Pagination and sorting with Pageable</li>
-              <li>Flyway and Liquibase for database versioning</li>
-              <li>Maven for dependency management and MapStruct for efficient DTO mapping</li>
-              <li>AWS S3 integrations for file storage</li>
-              <li>AWS Lambda for serverless processing</li>
-              <li>Modern Architectures: hexagonal architecture, event-driven architecture, SQS queues</li>
-              <li>Automated testing with JUnit and Mockito</li>
-            </ul>
+           <ul>
+            <li>Node.js & TypeScript: Strongly typed, scalable server-side development</li>
+            <li>Fastify & NestJS: High-performance frameworks with modular architecture</li>
+            <li>Database ORM / Query Builders: TypeORM, Prisma, Knex.js for advanced queries and migrations</li>
+            <li>Authentication & Authorization: JWT, Passport.js, OAuth2 integration</li>
+            <li>API Development: RESTful APIs, GraphQL APIs, external API integrations</li>
+            <li>Data Management: Pagination, filtering, sorting with built-in support</li>
+            <li>Cache & Performance: Redis, in-memory caching strategies, rate-limiting</li>
+            <li>Testing & Quality: Jest, Supertest, automated integration and unit testing</li>
+            <li>Containerization & Deployment: Docker, Docker Compose, CI/CD pipelines (GitHub Actions, GitLab CI)</li>
+            <li>Logging & Monitoring: Winston, Pino, structured logging, metrics and observability</li>
+            <li>Modern Architecture: Clean Architecture, hexagonal architecture, event-driven patterns, message queues (RabbitMQ, SQS)</li>
+            <li>Security Best Practices: Input validation, rate-limiting, helmet, CORS, secrets management</li>
+            <li>Dev Tools: ESLint, Prettier, Husky for linting and pre-commit hooks</li>
+            <li>Cloud & Storage: AWS S3, GCP Storage, serverless functions (AWS Lambda, Cloud Functions)</li>
+          </ul>
           </td>
         </tr>
       </table>
