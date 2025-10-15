@@ -10,7 +10,7 @@
 
 <!--START_SECTION:waka-->
 
-```rust
+```
 From: 15 October 2025 - To: 15 October 2025
 
 Total Time: 0 secs
