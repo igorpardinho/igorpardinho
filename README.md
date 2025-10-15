@@ -1,88 +1,84 @@
-### Hi 👋! I'm Igor Pardinho
-
-I'm a back-end developer from Brazil 🇧🇷, passionate about clean code, scalable architecture, and building reliable APIs.
-
-<div align="left">
-  <img height="150" src="https://media.tenor.com/2ITHaiXAjNcAAAAi/night-shift-work.gif"  />
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=2000&color=F7F7F7&width=600&height=60&lines=Igor+Pardinho%2C+developer" alt="Typing SVG" /></a>
 </div>
+
+<p align="center">
+  <sub>backend developer</sub>
+</p>
 
 ---
 
-### 💻 Tech Stack
+<!--START_SECTION:waka-->
 
-**Languages & Frameworks:**  
-TypeScript | JavaScript | Fastify | NestJS | ExpressJS | Java | Spring Boot  
+```rust
+From: 19 September 2025 - To: 13 October 2025
 
-**Databases & ORMs:**  
-MySQL | PostgreSQL | MongoDB | JPA | TypeORM | Prisma | Knex 
+Total Time: 100 hrs 4 mins
 
-**Dev Tools & Practices:**  
-Docker | Redis | JWT Auth | REST APIs  
-Clean Architecture | TDD | Git
+Java              50 hrs 6 mins   ████████████▓░░░░░░░░░░░░   50.07 %
+Dart              14 hrs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+Terraform         7 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Rust              7 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+JavaScript        6 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Vue.js            2 hrs 21 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+```
 
----
+<!--END_SECTION:waka-->
 
-### 🚀 Currently learning
-
-- Advanced testing strategies  
-- Fullstack apps with React  
-- DevOps & CI/CD pipelines  
-
----
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorpardinho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-![Pacman Graph](https://raw.githubusercontent.com/igorpardinho/igorpardinho/output/pacman-contribution-graph.svg#gh-dark-mode-only)
-
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/igorpardinholima/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+<div align="center">
+      <table>
+        <tr>
+          <td width="50%">
+            <div align="center">
+              <a href="https://github.com/igorpardinho">
+                <img height="180em"
+                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpardinho&layout=compact&langs_count=7&theme=dark" />
+              </a>
+            </div>
+            <h3 align="center">Conhecimentos/Habilidades</h3>
+            <div align="center" style="display: inline_block">
+              <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+              <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+              <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+              <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
+              <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+              <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+              <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
+               <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg">
+               <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+            </div>
+            </br>
+            <div align="center" style="display: inline_block">
+              <h3 align="center">Visitor counter</h3>
+              <img src="https://count.getloli.com/@igorpardinho?theme=morden-num" alt="Count" />
+            </div>
+          </td>
+          <td width="50%">
+            <h3>💻 Tech Stack</h3>
+            <p><strong>--- Back-end ---</strong></p>
+            <ul>
+              <li>Spring Boot (Web, Data JPA, Security with JWT, Actuator)</li>
+              <li>External API Integration (WebClient, Feign Client)</li>
+              <li>ORM with Hibernate, advanced queries (JPQL, Criteria, Native Queries)</li>
+              <li>Pagination and sorting with Pageable</li>
+              <li>Flyway and Liquibase for database versioning</li>
+              <li>Maven for dependency management and MapStruct for efficient DTO mapping</li>
+              <li>AWS S3 integrations for file storage</li>
+              <li>AWS Lambda for serverless processing</li>
+              <li>Modern Architectures: hexagonal architecture, event-driven architecture, SQS queues</li>
+              <li>Automated testing with JUnit and Mockito</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
