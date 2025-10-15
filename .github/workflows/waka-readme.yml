@@ -17,7 +17,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           TIME_RANGE: all_time
-          CODE_LANG: rust
+          CODE_LANG: ""
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           IGNORED_LANGUAGES: YAML JSON TOML XML CSS HTML HCL
