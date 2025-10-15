@@ -6,7 +6,7 @@
   <sub>backend developer</sub>
 </p>
 
----
+---rust
 
 <!--START_SECTION:waka-->
 
