@@ -1,24 +1,49 @@
 name: Waka Readme
 
+
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
+  workflow_dispatch: # permite rodar manualmente
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
+    # roda todo dia à meia-noite UTC
     - cron: "0 0 * * *"
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
+      # Clona seu repositório
+      - uses: actions/checkout@v3
+
+      # Executa o WakaTime Readme Action
       - uses: athul/waka-readme@master
         with:
+          # Chave da sua conta WakaTime
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          # Mostra o título
           SHOW_TITLE: true
-          TIME_RANGE: all_time
+
+          # Pega atividade dos últimos 7 dias
+          TIME_RANGE: last_7_days
+
+          # Pega todas as linguagens
           CODE_LANG: ""
+
+          # Mostra tempo e tempo mascarado
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+
+          # Linguagens ignoradas
           IGNORED_LANGUAGES: YAML JSON TOML XML CSS HTML HCL
+
+          # Quantidade de linguagens mostradas
           LANG_COUNT: 7
+
+          # Mensagem do commit
+          COMMIT_MESSAGE: "chore: update WakaTime stats"
+
+          # Branch onde o README será atualizado
+          TARGET_BRANCH: main
+
+          # Caminho do README
+          TARGET_PATH: README.md
