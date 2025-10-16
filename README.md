@@ -9,8 +9,8 @@
 
 <!--START_SECTION:waka-->
 
-```
-From: 09 October 2025 - To: 16 October 2025
+```rust
+From: 15 October 2025 - To: 16 October 2025
 
 Total Time: 1 hr 10 mins
 
