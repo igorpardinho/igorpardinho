@@ -14,11 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2️⃣ Garantir que estamos na raiz do repo
-      - name: Go to repository root
-        run: cd $GITHUB_WORKSPACE
-
-      # 3️⃣ Rodar o waka-readme action
+      # 2️⃣ Rodar o waka-readme action
       - name: Update WakaTime stats
         uses: athul/waka-readme@master
         with:
@@ -31,19 +27,17 @@ jobs:
           IGNORED_LANGUAGES: YAML JSON TOML XML CSS HTML HCL
           LANG_COUNT: 7
 
-      # 4️⃣ Adicionar ```rust ao bloco gerado
+      # 3️⃣ Adicionar ```rust ao bloco gerado
       - name: Wrap WakaTime block with Rust
         run: |
-          cd $GITHUB_WORKSPACE
-          sed -i '/<!--START_SECTION:waka-->/!b;n;c\```rust' README.md
-          sed -i '/<!--END_SECTION:waka-->/i \```' README.md
+          sed -i '/<!--START_SECTION:waka-->/!b;n;c\```rust' $GITHUB_WORKSPACE/README.md
+          sed -i '/<!--END_SECTION:waka-->/i \```' $GITHUB_WORKSPACE/README.md
 
-      # 5️⃣ Commit e push das alterações
+      # 4️⃣ Commit e push das alterações
       - name: Commit changes
         run: |
-          cd $GITHUB_WORKSPACE
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
+          git add $GITHUB_WORKSPACE/README.md
           git diff --cached --quiet || git commit -m "chore: update WakaTime stats"
           git push
