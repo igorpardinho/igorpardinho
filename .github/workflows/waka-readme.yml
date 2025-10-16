@@ -1,43 +1,48 @@
-name: Waka Readme
+name: Update WakaTime README
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # permite rodar manualmente
   schedule:
-    - cron: "0 0 * * *" # 12 AM UTC
+    # roda todo dia à meia-noite UTC
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      # 1️⃣ Checkout do repositório
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      # Clona seu repositório
+      - uses: actions/checkout@v3
 
-      # 2️⃣ Rodar o waka-readme action
-      - name: Update WakaTime stats
-        uses: athul/waka-readme@master
+      # Executa o WakaTime Readme Action
+      - uses: athul/waka-readme@master
         with:
+          # Chave da sua conta WakaTime
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          # Mostra o título
           SHOW_TITLE: true
+
+          # Pega atividade dos últimos 7 dias
           TIME_RANGE: all_time
+
+          # Pega todas as linguagens
           CODE_LANG: ""
+
+          # Mostra tempo e tempo mascarado
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+
+          # Linguagens ignoradas
           IGNORED_LANGUAGES: YAML JSON TOML XML CSS HTML HCL
+
+          # Quantidade de linguagens mostradas
           LANG_COUNT: 7
 
-      # 3️⃣ Adicionar ```rust ao bloco gerado
-      - name: Wrap WakaTime block with Rust
-        run: |
-          sed -i '/<!--START_SECTION:waka-->/!b;n;c\```rust' $GITHUB_WORKSPACE/README.md
-          sed -i '/<!--END_SECTION:waka-->/i \```' $GITHUB_WORKSPACE/README.md
+          # Mensagem do commit
+          COMMIT_MESSAGE: "chore: update WakaTime stats"
 
-      # 4️⃣ Commit e push das alterações
-      - name: Commit changes
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add $GITHUB_WORKSPACE/README.md
-          git diff --cached --quiet || git commit -m "chore: update WakaTime stats"
-          git push
+          # Branch onde o README será atualizado
+          TARGET_BRANCH: main
+
+          # Caminho do README
+          TARGET_PATH: README.md
