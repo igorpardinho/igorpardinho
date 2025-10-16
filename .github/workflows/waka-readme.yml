@@ -1,34 +1,24 @@
-name: Update WakaTime README
+name: Waka Readme
 
 on:
-  workflow_dispatch: # permite rodar manualmente
+  # for manual workflow trigger
+  workflow_dispatch:
   schedule:
-    # roda todo dia à meia-noite UTC
+    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:
   update-readme:
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      # Clona seu repositório
-      - uses: actions/checkout@v3
-
-      # Executa o WakaTime Readme Action
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          TIME_RANGE: last_7_days
-          CODE_LANG: ""
+          TIME_RANGE: all_time
+          CODE_LANG: rust
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           IGNORED_LANGUAGES: YAML JSON TOML XML CSS HTML HCL
           LANG_COUNT: 7
-          COMMIT_MESSAGE: "chore: update WakaTime stats"
-          TARGET_BRANCH: main
-          TARGET_PATH: README.md
-
-      # Ajusta o bloco do WakaTime para usar rust e ficar colorido
-      - name: Make WakaTime block colorful
-        run: |
-          sed -i '/<!--START_SECTION:waka-->/!b;n;c\```rust' README.md
