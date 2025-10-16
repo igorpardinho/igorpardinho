@@ -8,7 +8,7 @@
 
 
 <!--START_SECTION:waka-->
-
+```rust
 ```
 From: 15 October 2025 - To: 16 October 2025
 
@@ -18,6 +18,7 @@ TypeScript   1 hr 6 mins     █████████████████
 Bash         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 ```
 
+```
 <!--END_SECTION:waka-->
 
 <div align="center">
