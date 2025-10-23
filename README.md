@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 15 October 2025 - To: 22 October 2025
+From: 16 October 2025 - To: 23 October 2025
 
-Total Time: 4 hrs 53 mins
+Total Time: 8 hrs 15 mins
 
-TypeScript   4 hrs 1 min     ████████████████████▓░░░░   82.05 %
-Vue.js       18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-Bash         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-Git Config   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Prisma       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+TypeScript   7 hrs 22 mins   ██████████████████████▒░░   89.47 %
+Vue.js       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Bash         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Git Config   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Prisma       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
