@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 20 October 2025 - To: 27 October 2025
+From: 21 October 2025 - To: 28 October 2025
 
-Total Time: 11 hrs 58 mins
+Total Time: 11 hrs 55 mins
 
-TypeScript   10 hrs          █████████████████████░░░░   83.63 %
-Dart         50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-Prisma       49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+TypeScript   9 hrs 57 mins   █████████████████████░░░░   83.57 %
+Dart         50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+Prisma       49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
 Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
