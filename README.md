@@ -61,6 +61,8 @@ TSConfig     21 mins         ▓░░░░░░░░░░░░░░░░
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
               <img align="center" alt="Er-icon" height="30" width="40"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+               <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg">
             </div>
             </br>
             <div align="center" style="display: inline_block">
