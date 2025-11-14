@@ -31,7 +31,7 @@ TSConfig     4 mins          ░░░░░░░░░░░░░░░░░
             <div align="center">
               <a href="https://github.com/igorpardinho">
                 <img height="180em"
-                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpardinho&layout=compact&langs_count=7&theme=dark" />
+                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpardinho&layout=compact&langs_count=8&theme=dark" />
               </a>
             </div>
             <h3 align="center">Conhecimentos/Habilidades</h3>
