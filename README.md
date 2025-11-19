@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 November 2025 - To: 17 November 2025
+From: 11 November 2025 - To: 18 November 2025
 
-Total Time: 15 hrs 19 mins
+Total Time: 18 hrs 27 mins
 
-TypeScript   13 hrs 11 mins  █████████████████████▓░░░   86.17 %
-Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Docker       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Prisma       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+TypeScript   16 hrs 8 mins   ██████████████████████░░░   87.48 %
+Docker       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+SQL          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
