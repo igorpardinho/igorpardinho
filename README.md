@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 22 January 2026 - To: 29 January 2026
+From: 23 January 2026 - To: 30 January 2026
 
-Total Time: 11 hrs 19 mins
+Total Time: 14 hrs 54 mins
 
-TypeScript   8 hrs 7 mins    ██████████████████░░░░░░░   71.68 %
-TSConfig     48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-Prisma       48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-Bash         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TypeScript   10 hrs 39 mins  ██████████████████░░░░░░░   71.54 %
+Prisma       1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+TSConfig     48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Bash         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
