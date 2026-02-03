@@ -27,12 +27,6 @@ JavaScript   2 mins          ░░░░░░░░░░░░░░░░░
       <table>
         <tr>
           <td width="50%">
-            <div align="center">
-              <a href="https://github.com/igorpardinho">
-                <img height="180em"
-                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorpardinho&layout=compact&langs_count=8&theme=dark" />
-              </a>
-            </div>
             <h3 align="center">Conhecimentos/Habilidades</h3>
             <div align="center" style="display: inline_block">
               <img align="center" alt="Er-icon" height="30" width="40"
@@ -42,7 +36,9 @@ JavaScript   2 mins          ░░░░░░░░░░░░░░░░░
               <img align="center" alt="Er-icon" height="30" width="40"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
               <img align="center" alt="Er-icon" height="30" width="40"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+              <img align="center" alt="Er-icon" height="30" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
               <img align="center" alt="Er-icon" height="30" width="40"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
               <img align="center" alt="Er-icon" height="30" width="40"
@@ -93,4 +89,4 @@ JavaScript   2 mins          ░░░░░░░░░░░░░░░░░
         </tr>
       </table>
     </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+
