@@ -10,11 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 February 2026 - To: 13 February 2026
+From: 07 February 2026 - To: 14 February 2026
 
-Total Time: 0 secs
+Total Time: 27 mins
 
-No activity tracked
+Makefile   15 mins         ██████████████░░░░░░░░░░░   55.83 %
+C          12 mins         ███████████░░░░░░░░░░░░░░   44.17 %
 ```
 
 <!--END_SECTION:waka-->
