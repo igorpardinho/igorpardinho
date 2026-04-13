@@ -11,15 +11,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 April 2026 - To: 11 April 2026
+From: 05 April 2026 - To: 12 April 2026
 
-Total Time: 4 hrs 41 mins
+Total Time: 5 hrs 27 mins
 
-TypeScript   1 hr 58 mins          ██████████▒░░░░░░░░░░░░░░   41.99 %
-JavaScript   1 hr 36 mins          ████████▓░░░░░░░░░░░░░░░░   34.27 %
-SQL          31 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
-HTTP         12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-Git Config   4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+TypeScript   2 hrs 43 mins         ████████████▓░░░░░░░░░░░░   50.08 %
+JavaScript   1 hr 36 mins          ███████▒░░░░░░░░░░░░░░░░░   29.49 %
+SQL          31 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+HTTP         12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Git Config   4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
