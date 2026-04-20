@@ -30,7 +30,7 @@ Git Config   1 min                 ░░░░░░░░░░░░░░░
             <h3 align="center">Conhecimentos/Habilidades</h3>
             <div align="center" style="display: inline_block">
               <img align="center" alt="Er-icon" height="30" width="40"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
               <img align="center" alt="Er-icon" height="30" width="40"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
               <img align="center" alt="Er-icon" height="30" width="40"
@@ -41,8 +41,6 @@ Git Config   1 min                 ░░░░░░░░░░░░░░░
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
               <img align="center" alt="Er-icon" height="30" width="40"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-              <img align="center" alt="Er-icon" height="30" width="40"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
               <img align="center" alt="Er-icon" height="30" width="40"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
                <img align="center" alt="Er-icon" height="30" width="40"
