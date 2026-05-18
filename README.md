@@ -11,11 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 May 2026 - To: 16 May 2026
+From: 10 May 2026 - To: 17 May 2026
 
-Total Time: 1 hr 46 mins
+Total Time: 1 hr 52 mins
 
-C#     1 hr 20 mins          ██████████████████▓░░░░░░   75.26 %
+C#             1 hr 20 mins          █████████████████▓░░░░░░░   71.21 %
+TypeScript     4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Markdown       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+shell script   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
