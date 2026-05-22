@@ -11,15 +11,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 May 2026 - To: 20 May 2026
+From: 14 May 2026 - To: 21 May 2026
 
-Total Time: 4 hrs 22 mins
+Total Time: 5 hrs 41 mins
 
-TypeScript     2 hrs 26 mins         ██████████████░░░░░░░░░░░   55.79 %
-C#             1 hr 20 mins          ███████▓░░░░░░░░░░░░░░░░░   30.43 %
-shell script   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Markdown       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-jsonc          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript     3 hrs 39 mins         ████████████████░░░░░░░░░   64.19 %
+C#             1 hr 20 mins          ██████░░░░░░░░░░░░░░░░░░░   23.45 %
+jsonc          3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+shell script   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Markdown       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
